@@ -1,0 +1,12 @@
+{
+  "name": "anime-poster-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "rss-parser": "^3.13.0",
+    "better-sqlite3": "^9.4.3",
+    "dotenv": "^16.3.1"
+  }
+}
